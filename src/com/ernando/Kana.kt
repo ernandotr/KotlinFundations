@@ -1,0 +1,30 @@
+package com.ernando
+
+fun main() {
+    println("=== Hiragana ===")
+    println("あ い う え お")
+    println("か き く け こ")
+    println("さ し す せ そ")
+    println("た ち つ て と")
+    println("な に ぬ ね の")
+    println("は ひ ふ へ ほ")
+    println("ま み む め も")
+    println("や    ゆ    よ")
+    println("ら り る れ ろ")
+    println("わ        を")
+    println("ん")
+
+    println()
+    println("=== Katakana ===")
+    println("ア イ ウ エ オ")
+    println("カ キ ク ケ コ")
+    println("サ シ ス セ ソ")
+    println("タ チ ツ テ ト")
+    println("ナ ニ ヌ ネ ノ")
+    println("ハ ヒ フ ヘ ホ")
+    println("マ ミ ム メ モ")
+    println("ヤ    ユ    ヨ")
+    println("ラ リ ル レ ロ")
+    println("ワ        ヲ")
+    println("ン")
+}
